@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+tf_env/
+
+# TensorFlow models
+*.tflite
+*.h5
+*.keras
+*.ckpt
+
+# Logs
+logs/
+*.log
+
+# VS Code settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+tf_env/
+__pycache__/
+*.pyd
+*.dll
+*.so
+*.log
+.DS_Store
